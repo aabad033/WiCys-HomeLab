@@ -6,7 +6,7 @@ This is the initial documentation for the WiCys Home Lab, which includes the tec
 This is the current tech stack that is being used, or could possibly be used.
  - [Proxmox VE](https://www.proxmox.com/en/products/proxmox-virtual-environment/overview)
  - [TrueNAS](https://www.truenas.com/)
- - [WeireGuard](https://www.wireguard.com/)
+ - [WireGuard.](https://www.wireguard.com/)
  - [fpsense](https://www.pfsense.org/)
 
 ## Video Guide
